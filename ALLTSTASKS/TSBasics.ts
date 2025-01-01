@@ -11,6 +11,10 @@
 // let number:number[]=[1,2,3,4];
 // let empty:[]=[];
 
+
+let name = "Anjali";
+
+
 // let userDetails:{name:string; age:number}={
 //     name:"Anjali",
 //     age:21
@@ -134,3 +138,4 @@
 // }
 // console.log(employee);
 
+export {}

@@ -29,3 +29,9 @@ function newTask(x:any = "Multiple",y:any = "value"):any{ //implementation
 console.log(newTask());
 console.log(newTask(3,2));
 
+enum status {
+    PENDING,
+    COMPLETED,
+    FAILED
+}
+
